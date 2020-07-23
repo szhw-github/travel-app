@@ -1,0 +1,109 @@
+{
+  "ret": true,
+  "data": {
+    "city": "",
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "//imgs.qunarzz.com/vc/44/e9/86/95bc36c9e1c06ebd68bdfe222e.jpg_92.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "//imgs.qunarzz.com/vc/6d/9f/35/b8ad5468f73fd60ec0ced086f6.jpg_92.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//imgs.qunarzz.com/vc/e3/a1/71/f498dfd3bed948d623c9093252.jpg_92.jpg"
+      }],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/hotel.png",
+        "desc": "酒店-修改了"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/flight.png",
+        "desc": "机票"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/train.png",
+        "desc": "火车票"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/package.png",
+        "desc": "度假"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "//s.qunarzz.com/homenode/images/touchheader/piao.png",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "https://picbed.qunarzz.com/f5e5770393d759578962e53ee67798c8.png",
+        "desc": "海外酒店"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "https://picbed.qunarzz.com/a36d2288f19e54562338f4d8ef986288.png",
+        "desc": "低价机票"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "https://picbed.qunarzz.com/377db8cb2143aebf01869c9baad3d325.png",
+        "desc": "汽车票船票"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "https://picbed.qunarzz.com/ae617a31e0bd5803d76918b817f6d942.png",
+        "desc": "自由行-修改了"
+      },
+      {
+        "id": "0010",
+        "imgUrl": "https://picbed.qunarzz.com/1316dc82d1ce6259686d5a68880e5a9d.png",
+        "desc": "攻略"
+      }],
+    "recommendList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://img1.qunarzz.com/travel/poi/1504/a6/b93986f6b7ecf3.jpg",
+        "title": "修改了-我在开封碎碎念，这座古都有点“野”（超夯美食分享+宋代沉浸式体验）",
+        "desc": "清明上河园>鼓楼夜市>开封东大寺>黄家老店>沙家酱牛肉>岁岁牛>周记杏仁茶"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://img1.qunarzz.com/travel/poi/1504/a6/b93986f6b7ecf3.jpg",
+        "title": "我在开封碎碎念，这座古都有点“野”（超夯美食分享+宋代沉浸式体验）",
+        "desc": "清明上河园>鼓楼夜市>开封东大寺>黄家老店>沙家酱牛肉>岁岁牛>周记杏仁茶"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://img1.qunarzz.com/travel/poi/1504/a6/b93986f6b7ecf3.jpg",
+        "title": "我在开封碎碎念，这座古都有点“野”（超夯美食分享+宋代沉浸式体验）",
+        "desc": "清明上河园>鼓楼夜市>开封东大寺>黄家老店>沙家酱牛肉>岁岁牛>周记杏仁茶"
+      }],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/3d581d848afb96c38bfbf431f94d921f.jpg?width=1000&height=667&top=0&color=#876b83",
+        "title": "修改了-我在开封碎碎念，这座古都有点“野”（超夯美食分享+宋代沉浸式体验）",
+        "desc": "清明上河园>鼓楼夜市>开封东大寺>黄家老店>沙家酱牛肉>岁岁牛>周记杏仁茶"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/3d581d848afb96c38bfbf431f94d921f.jpg?width=1000&height=667&top=0&color=#876b83",
+        "title": "我在开封碎碎念，这座古都有点“野”（超夯美食分享+宋代沉浸式体验）",
+        "desc": "清明上河园>鼓楼夜市>开封东大寺>黄家老店>沙家酱牛肉>岁岁牛>周记杏仁茶"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://tr-osdcp.qunarzz.com/tr-osd-tr-manager/img/3d581d848afb96c38bfbf431f94d921f.jpg?width=1000&height=667&top=0&color=#876b83",
+        "title": "我在开封碎碎念，这座古都有点“野”（超夯美食分享+宋代沉浸式体验）",
+        "desc": "清明上河园>鼓楼夜市>开封东大寺>黄家老店>沙家酱牛肉>岁岁牛>周记杏仁茶"
+      }
+    ]
+  }
+}
